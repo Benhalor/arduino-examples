@@ -1,7 +1,7 @@
 /*
   Blink
   Turns on an LED on for one second, then off for one second, repeatedly.
- 
+  https://www.electronique-kit.com/programmer-arduino
   This example code is in the public domain.
  */
  
