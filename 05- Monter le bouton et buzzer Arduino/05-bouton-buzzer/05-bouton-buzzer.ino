@@ -25,12 +25,10 @@ void loop() {
   if (digitalRead(pin_bouton) == LOW) { // Si le bouton est appuyé
     tone(pin_buzzer, 10, 1915); // Faire sonner le buzzer avec une fréquence de 10Hz (son grave), pendant une durée de 1915 millisecondes
     delay(4000);  // On attend 4 secondes
-
   }
   else { // Sinon, si le bouton est relaché
     tone(pin_buzzer, 52, 956); // Faire sonner le buzzer avec une fréquence de 52Hz (son plus aigu), pendant une durée de 956 millisecondes
     delay(4000);  // On attend 4 secondes
-
   }
-
+  
 }
