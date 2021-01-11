@@ -4,12 +4,12 @@
   Ce code est tiré du tutoriel : https://www.electronique-kit.com/faire-clignoter-une-led
   Ce code d'exemple est dans le domaine publique
 */
- 
+
 
 // Le setup sera executé seulement au démarrage de l'Arduino
-void setup() {              
+void setup() {
   // Initialise la pin 8 sur laquelle est branchée la LED comme une sortie (OUTPUT)
-  pinMode(8, OUTPUT);     
+  pinMode(8, OUTPUT);
 }
 
 // La routine du loop se répète à l'infini
