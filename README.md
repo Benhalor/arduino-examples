@@ -1,4 +1,4 @@
 # arduino-examples
-This repository stores arduino code examples used in the electronic-kit.com website.
+Ce dépôt github est utilisé pour stocker le code Arduino des tutoriels du site electronic-kit?
 
-Visit https://www.electronique-kit.com/ for more information
+Rendez-vous sur https://www.electronique-kit.com/ pour plus d'informations
